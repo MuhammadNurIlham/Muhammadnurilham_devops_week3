@@ -110,6 +110,7 @@ ini akan mengganti semua kata 'pada' menjadi 'di' pada filebaru
   - > __htop__
   - > __lsof__
   - > __ps__
+
 __*htop*__ merupakan perintah untuk memonitoring sistem, kita dapat melihat penggunaan memory, cpu, swap. berikut adalah contoh penggunaan perintahnya :
   - > __*htop*__
 
